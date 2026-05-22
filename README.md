@@ -3,119 +3,100 @@
 
 <p align="center">
   <a href="https://mamunlab.online" target="_blank">🌐 Portfolio</a> •
-  <a href="mailto:mamun.ru.ice@gmail.com">📫 Email</a> •
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">💼 LinkedIn</a>
+  <a href="mailto:md.almamun.mim.dev@gmail.com">📫 Email</a> •
+  <a href="https://linkedin.com/in/mamuncrafts" target="_blank">💼 LinkedIn</a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Senior Software Engineer with 5+ years of experience building scalable full-stack web applications. Currently working at **Fanfare Bangladesh Ltd**, where I design and ship production-grade features across the full stack.
+Senior Software Engineer with **4+ years of experience** building production-grade full-stack web applications. Currently working at **Fanfare Bangladesh Ltd** as a Senior Software Developer, where I design and ship scalable, reliable features across the full stack.
 
 - 🏆 **MongoDB Certified Associate Developer**
-- 🔭 Currently working with **React, Next.js, Node.js, NestJS, MongoDB, PostgreSQL**
-- 🌍 Open to **remote full-time and contract opportunities**
-- 🎓 BSc in ICE — Rajshahi University
+- 🔭 Currently building with **React, Next.js, Node.js, NestJS, PostgreSQL, MongoDB**
+- 🌍 Open to **remote full-time and senior contract opportunities**
+- 🎓 BSc in ICE — Rajshahi University (GPA: 80%+)
+- 📍 Based in Dhaka, Bangladesh · Comfortable across time zones
+
+---
+
+## 📈 Key Achievements
+
+- ⚡ **Doubled API throughput** and cut latency by **45%** on the Fanfare API server
+- 🧪 Cut data load by **60%** and achieved **100% unit test coverage**, reducing post-deployment bugs by **75%**
+- 📦 Reduced initial bundle size by **40%** and load time by **25%** on the admin panel
+- 🎯 Dropped bounce rate by **~25%** on landing pages through performance and UX improvements
+- 🚀 Implemented CI/CD pipelines with GitHub Actions, reducing deployment time by **40%**
+- 🗄️ Introduced Redis-based caching, improving API response times by **50%**
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Frontend**
-
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-
-
-
-
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
-
-
-
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-
-
-
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 **Backend**
-
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
-
-
-
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-
-
-
-
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
-
-
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
 **Database**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+---
 
+## 💼 Experience
 
+**Senior Software Developer** · Fanfare Bangladesh Ltd *(Jan 2026 – Present)*
+> Led design and architecture of scalable, high-performance web applications. Mentored junior developers, conducted code reviews, and drove engineering best practices across the team.
 
+**Software Developer** · Fanfare Bangladesh Ltd *(Aug 2022 – Jan 2026 · 3 yrs 6 mos)*
+> Built scalable GraphQL APIs using Node.js, NestJS, and MongoDB for an app with **1M+ downloads**, supporting **600K+ users** and **30K active users**.
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
-
-
-**Tools & Others**
-
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-
-
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
-
-
-
-![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=flat)
-
-
+**Software Engineer** · Talent Pro *(Dec 2023 – Jan 2026 · 2 yrs 2 mos)*
+> Built and maintained scalable full-stack applications with React.js, Next.js, Node.js, NestJS. Managed cloud infrastructure on AWS (EC2, S3, CloudWatch). Introduced Redis caching that improved API response times by 50%.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎥 [Video Chat App](https://github.com/MamunCrafts/video-chat-app)
-Real-time video communication app built with WebRTC and TypeScript.
+### 🎥 Video Chat App
+Real-time video communication app built with **WebRTC** and **TypeScript**.
 `TypeScript` `WebRTC` `Node.js` `Socket.io`
 
-### 🛒 [E-Commerce Web Application](https://github.com/MamunCrafts/ecommerce-web-application)
+### 🛒 E-Commerce Web Application
 Full-stack e-commerce platform with product management, cart, and checkout flow.
 `Next.js` `TypeScript` `MongoDB` `Tailwind CSS`
+
+### 🔗 ConversaAI — Internal Data Integration Platform
+ETL and Reverse ETL workflows with pipelines, connectors, failure recovery, and monitoring.
+`NestJS` `PostgreSQL` `TypeScript`
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MamunCrafts&show_icons=true&theme=dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamunCrafts&layout=compact&theme=dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MamunCrafts&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamunCrafts&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ## 📫 Let's Connect
 
-I'm actively exploring **remote opportunities**. If you're looking for a senior full-stack engineer who can own features end-to-end, feel free to reach out.
+I'm actively exploring **senior remote contract and full-time opportunities**. Especially interested in B2B SaaS teams that need a senior engineer who can ramp on legacy code fast and ship without supervision.
 
-📧 mamun.ru.ice@gmail.com
-🌐 mamunlab.online
+📧 [md.almamun.mim.dev@gmail.com](mailto:md.almamun.mim.dev@gmail.com) · 🌐 [mamunlab.online](https://mamunlab.online) · 💼 [LinkedIn](https://linkedin.com/in/mamuncrafts)
