@@ -65,9 +65,6 @@ Senior Software Engineer with **4+ years of experience** building production-gra
 **Software Developer** · Fanfare Bangladesh Ltd *(Aug 2022 – Jan 2026 · 3 yrs 6 mos)*
 > Built scalable GraphQL APIs using Node.js, NestJS, and MongoDB for an app with **1M+ downloads**, supporting **600K+ users** and **30K active users**.
 
-**Software Engineer** · Talent Pro *(Dec 2023 – Jan 2026 · 2 yrs 2 mos)*
-> Built and maintained scalable full-stack applications with React.js, Next.js, Node.js, NestJS. Managed cloud infrastructure on AWS (EC2, S3, CloudWatch). Introduced Redis caching that improved API response times by 50%.
-
 ---
 
 ## 🚀 Featured Projects
